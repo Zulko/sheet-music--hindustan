@@ -1,5 +1,7 @@
 # Hindustan - transcription from Piano Roll Aeolian-1217 (1918)
 
+[Direct PDF download link](https://github.com/Zulko/sheet-music--hindustan/raw/master/hindustan.pdf)
+
 This roll is difficult to play but quite a gem. I removed a few notes in the central section but it is otherwise transcribed note for note. Enjoy!
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
